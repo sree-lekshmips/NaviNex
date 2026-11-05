@@ -107,9 +107,16 @@ Ensure all required model files are available in the `models/` directory.
 
 ## Running the Project
 
-The system uses a webcam for real-time visual input.
+1. Ensure all dependencies and required model files are installed.
+2. Connect a webcam to your system.
+3. Activate your virtual environment.
+4. Run the application:
 
-See the application entry point and configuration for the appropriate execution command.
+```bash
+python app.py
+```
+
+The application uses real-time visual input from the webcam to perform object detection, depth estimation, segmentation, and navigation-related guidance.
 
 ## Project Objective
 
