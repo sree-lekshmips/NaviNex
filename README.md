@@ -141,3 +141,16 @@ Nirmala College, Muvattupuzha, Kerala
 ---
 
 *Navinex – Making surroundings more understandable through AI.*
+## 📸 Project Screenshots
+
+### Opening Page
+![Navinex Opening Page](screenshots/opening_page.png)
+
+### Clear Path
+![Clear Path](screenshots/clearpath.png)
+
+### Person Detected Ahead
+![Person Ahead](screenshots/personahead.png)
+
+### Path Blocked by Person
+![Path Blocked](screenshots/blocked_by_person.png)
